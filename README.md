@@ -1,17 +1,23 @@
-# Netflix Data Cleaning
+# 🎬 Netflix Data Cleaning Project
 
-This project focuses on cleaning Netflix dataset using Python and Pandas.
+## 📌 Overview
+This project focuses on cleaning and preprocessing the Netflix Movies dataset using Python and Pandas.
 
-## Tools Used
+## 🛠️ Tools Used
 - Python
 - Pandas
 - Google Colab
 
-## Tasks Performed
-- Removed duplicates
+## ✨ Tasks Performed
+- Removed duplicate records
 - Handled missing values
 - Cleaned Genre column
-- Standardized text
+- Standardized text formatting
+- Prepared dataset for analysis
 
-## Author
+## 📂 Files
+- Netflix_Data_cleaning.ipynb
+- netflix_movies_dirty.csv
+
+## 👩‍💻 Author
 Jyotsana Tripathi
